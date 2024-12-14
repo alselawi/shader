@@ -1,5 +1,7 @@
 # Shade picker
 
+Live on: https://shader-bwj.pages.dev/
+
 This is an experiment that I did to make it easy for dentist to pick a shade for a tooth.
 
 ## How to use:
