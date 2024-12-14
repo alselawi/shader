@@ -1,0 +1,8 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "sh.surge.dentalshade.twa",
+      "sha256_cert_fingerprints": ["F8:3C:6D:30:45:42:9C:2F:A6:22:A3:83:07:39:9C:89:65:D8:9C:4A:9E:0A:BF:FC:A3:0C:4B:EE:4D:5B:1B:6B"]
+    }
+  }]
